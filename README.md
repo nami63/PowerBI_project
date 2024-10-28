@@ -1,4 +1,4 @@
-Revenue Management Dashboard
+#Revenue Management Dashboard
 AtliQ Grands, a luxury hotel chain with multiple five-star locations across India, has been in the hospitality industry for over 20 years. Recently, due to strategic moves from competitors and less effective management decisions, AtliQ Grands has faced declining market share and revenue in the luxury/business hotel category. To address this challenge, the managing director of AtliQ Grands has decided to leverage Business and Data Intelligence as a strategic tool to regain their market position.
 
 Project Overview
