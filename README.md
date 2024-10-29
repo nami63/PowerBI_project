@@ -11,18 +11,21 @@ As a data analyst, I was tasked with:
 Creating relevant metrics as outlined in the provided metric list.
 Designing a dashboard based on a mock-up provided by AtliQ Grands’ stakeholders.
 Developing additional insights not explicitly defined in the metric list/mock-up, to further aid decision-making.
-Data and Resources
+
 This project utilized sample data provided by AtliQ Grands. The primary objectives included identifying revenue trends, customer preferences, booking patterns, and other KPIs crucial for strategic planning in the hospitality industry.
 
 ## Key Insights and Features
-# Revenue and Market Share Trends:  
-    Visual representation of revenue trends over time, including comparative analysis with key competitors.
-# Occupancy and Booking Analysis: 
-    Insights into peak booking seasons, occupancy rates, and customer demographics.
-Profitability Metrics: Display of metrics such as RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), and GOPPAR (Gross Operating Profit Per Available Room).
-Customer Segmentation Insights: Analysis of customer types (business vs. leisure), location preferences, and spending habits.
+## Revenue and Market Share Trends:  
+ Visual representation of revenue trends over time, including comparative analysis with key competitors.
+## Occupancy and Booking Analysis: 
+ Insights into peak booking seasons, occupancy rates, and customer demographics.
+## Profitability Metrics: 
+  Display of metrics such as RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), and GOPPAR (Gross Operating Profit Per Available Room).
+## Customer Segmentation Insights: 
+  Analysis of customer types (business vs. leisure), location preferences, and spending habits.
 Getting Started
-To view the dashboard:
+
+### To view the dashboard:
 
 Download the .pbix file from this repository.
 Open the file using Power BI Desktop.
