@@ -14,9 +14,11 @@ Developing additional insights not explicitly defined in the metric list/mock-up
 Data and Resources
 This project utilized sample data provided by AtliQ Grands. The primary objectives included identifying revenue trends, customer preferences, booking patterns, and other KPIs crucial for strategic planning in the hospitality industry.
 
-Key Insights and Features
-Revenue and Market Share Trends: Visual representation of revenue trends over time, including comparative analysis with key competitors.
-Occupancy and Booking Analysis: Insights into peak booking seasons, occupancy rates, and customer demographics.
+## Key Insights and Features
+# Revenue and Market Share Trends:  
+    Visual representation of revenue trends over time, including comparative analysis with key competitors.
+# Occupancy and Booking Analysis: 
+    Insights into peak booking seasons, occupancy rates, and customer demographics.
 Profitability Metrics: Display of metrics such as RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), and GOPPAR (Gross Operating Profit Per Available Room).
 Customer Segmentation Insights: Analysis of customer types (business vs. leisure), location preferences, and spending habits.
 Getting Started
