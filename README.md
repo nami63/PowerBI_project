@@ -24,6 +24,8 @@ This project utilized sample data provided by AtliQ Grands. The primary objectiv
 ## Customer Segmentation Insights: 
   Analysis of customer types (business vs. leisure), location preferences, and spending habits.
 Getting Started
+![Screenshot Description](screenshot.png)
+
 
 ### To view the dashboard:
 
